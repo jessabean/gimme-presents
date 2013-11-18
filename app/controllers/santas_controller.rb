@@ -1,0 +1,2 @@
+class SantasController < ApplicationController
+end
